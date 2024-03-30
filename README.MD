@@ -1,4 +1,4 @@
-# Rregression avec pytorch 
+# Regression avec pytorch 
 un premier essai pour comprendre la regression
 
 ## Principe
